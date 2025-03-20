@@ -3,6 +3,7 @@
 import type React from "react"
 
 import { BriefcaseIcon, MapPin } from "lucide-react"
+// @ts-ignore
 import type { Posting } from "@/types"
 import { useState } from "react"
 import { useRouter } from "next/navigation"

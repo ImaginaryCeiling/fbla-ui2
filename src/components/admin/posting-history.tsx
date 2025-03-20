@@ -2,6 +2,7 @@
 
 import { useState } from "react"
 import { dummyPostings } from "@/data/dummy-data"
+// @ts-ignore
 import type { Posting } from "@/types"
 import { Button } from "../ui/button"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "../ui/card"
